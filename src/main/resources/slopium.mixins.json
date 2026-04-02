@@ -1,0 +1,39 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.tatercertified.slopium.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "AABBMixin",
+    "BlockPosMixin",
+    "BlockGetterMixin",
+    "ChunkPosMixin",
+    "ChunkStatusTasksMixin",
+    "CompressionDecoderMixin",
+    "CompressionEncoderMixin",
+    "ItemStackMixin",
+    "LevelMixin",
+    "LevelReaderMixin",
+    "MathhelperMixin",
+    "MinecraftServerMixin",
+    "MutableBlockPosMixin",
+    "NoiseBasedChunkGeneratorMixin",
+    "ServerPlayerGameModeMixin",
+    "ServerChunkCacheMixin",
+    "ServerChunkCacheSpawnMixin",
+    "ServerExplosionMixin",
+    "SectionPosMixin",
+    "SimpleRegionStorageMixin",
+    "threading.EntityTickListAccessor",
+    "threading.ServerLevelEntityThreadingMixin",
+    "Vec3Mixin",
+    "Vec3iMixin",
+    "VillagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
