@@ -31,7 +31,7 @@ Sloptimizations introduces a cutting-edge suite of enhancements, including:
 
 ## 📦 Installation
 
-1. Make sure you are using **Fabric Loader 0.26.1**
+1. Make sure you are using **Minecraft 0.26.1**
 2. Download the latest release from the repository:
    👉 https://github.com/Tater-Certified/Sloptimizations
 3. Drop the `.jar` file into your `mods` folder
@@ -46,6 +46,8 @@ Sloptimizations is provided as-is. Side effects may include:
 - Unexpected performance losses
 - Existential confusion
 - Villagers behaving *too* dumb
+
+**This mod changes world generation**
 
 Use at your own risk.
 
